@@ -11,3 +11,5 @@
 * add a kill switch to the whole contract
 * make the contract a utility that can be used by David, Emma and anybody with an address
 * cover potentially bad input data
+
+## This project was done as part of ConsenSys Developer program 2017
