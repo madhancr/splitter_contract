@@ -1,4 +1,4 @@
-# Splitter smart contract 
+# Splitter Ethereum smart contract 
 * there are 3 people: Alice, Bob and Carol
 * we can see the balance of the Splitter contract on the web page
 * whenever Alice sends ether to the contract, half of it goes to Bob and the other half to Carol
